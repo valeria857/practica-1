@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\Docentes\Prof.Arcides\Practica 1\Programación orientada a objetos\Ejecicio.coche.6105188\Ejecicio.coche.6105188\bin\Debug\Ejecicio.coche.6105188.exe
+C:\Users\MINEDUCYT\Desktop\Docentes\Prof.Arcides\Practica 1\Programación orientada a objetos\Ejecicio.coche.6105188\Ejecicio.coche.6105188\bin\Debug\Ejecicio.coche.6105188.exe.config
+C:\Users\MINEDUCYT\Desktop\Docentes\Prof.Arcides\Practica 1\Programación orientada a objetos\Ejecicio.coche.6105188\Ejecicio.coche.6105188\obj\Debug\Ejecicio.coche.6105188.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Docentes\Prof.Arcides\Practica 1\Programación orientada a objetos\Ejecicio.coche.6105188\Ejecicio.coche.6105188\obj\Debug\Ejecicio.coche.6105188.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Docentes\Prof.Arcides\Practica 1\Programación orientada a objetos\Ejecicio.coche.6105188\Ejecicio.coche.6105188\obj\Debug\Ejecicio.coche.6105188.exe
+C:\Users\MINEDUCYT\Desktop\Docentes\Prof.Arcides\Practica 1\Programación orientada a objetos\Ejecicio.coche.6105188\Ejecicio.coche.6105188\obj\Debug\Ejecicio.coche.6105188.pdb
+C:\Users\MINEDUCYT\Desktop\Docentes\Prof.Arcides\Practica 1\Programación orientada a objetos\Ejecicio.coche.6105188\Ejecicio.coche.6105188\bin\Debug\Ejecicio.coche.6105188.pdb

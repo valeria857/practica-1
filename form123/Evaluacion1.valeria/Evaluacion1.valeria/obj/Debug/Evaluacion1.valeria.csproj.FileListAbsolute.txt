@@ -1,0 +1,20 @@
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\bin\Debug\Evaluacion1.valeria.exe.config
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\bin\Debug\Evaluacion1.valeria.exe
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\bin\Debug\Evaluacion1.valeria.pdb
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.Form1.resources
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.exe
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.pdb
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\bin\Debug\Evaluacion1.valeria.exe.config
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\bin\Debug\Evaluacion1.valeria.exe
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\bin\Debug\Evaluacion1.valeria.pdb
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.Form1.resources
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.exe
+C:\Users\MINEDUCYT\Desktop\practica 6\Evaluacion1.valeria\Evaluacion1.valeria\obj\Debug\Evaluacion1.valeria.pdb

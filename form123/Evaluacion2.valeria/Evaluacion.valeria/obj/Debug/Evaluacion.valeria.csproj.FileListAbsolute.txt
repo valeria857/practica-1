@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\bin\Debug\Evaluacion.valeria.exe.config
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\bin\Debug\Evaluacion.valeria.exe
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\bin\Debug\Evaluacion.valeria.pdb
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\obj\Debug\Evaluacion.valeria.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\obj\Debug\Evaluacion.valeria.Form1.resources
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\obj\Debug\Evaluacion.valeria.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\obj\Debug\Evaluacion.valeria.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\obj\Debug\Evaluacion.valeria.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\obj\Debug\Evaluacion.valeria.exe
+C:\Users\MINEDUCYT\Desktop\JJJJ\Evaluacion.valeria\Evaluacion.valeria\obj\Debug\Evaluacion.valeria.pdb

@@ -1,0 +1,20 @@
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\bin\Debug\majonchos.vale.exe.config
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\bin\Debug\majonchos.vale.exe
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\bin\Debug\majonchos.vale.pdb
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.Form1.resources
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.exe
+C:\Users\MINEDUCYT\Desktop\JJJJ\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.pdb
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\bin\Debug\majonchos.vale.exe.config
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\bin\Debug\majonchos.vale.exe
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\bin\Debug\majonchos.vale.pdb
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.exe
+C:\Users\MINEDUCYT\Desktop\Arcides\practica 6\majonchos.vale\majonchos.vale\obj\Debug\majonchos.vale.pdb
